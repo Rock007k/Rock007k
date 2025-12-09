@@ -1,7 +1,6 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Gautam Maheshwari"/>](portfolio-kohl-theta-19.vercel.app/)
 
-![Gautam's Banner](/Users/duco/.gemini/antigravity/brain/a2a0ec2b-6aa8-4318-9157-d507d5bfaea7/github_profile_banner_1765201403702.png)
-
-<h1 align="center">私, Gautam Maheshwari ⚡︎</h1>
+<h1 align="center"> Gautam Maheshwari ⚡︎</h1>
 
 <p align="center">
   <b>Software Developer</b><br>
@@ -21,11 +20,10 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Gautam Maheshwari**, a **Software Developer** based in **Gurugram**. I specialize in building scalable web applications and enterprise data solutions. My stack includes **Java, SpringBoot, Node.js, and React**.
+Hi! I'm **Gautam Maheshwari**, a **Software Developer**. I specialize in building scalable web applications and enterprise data solutions. My stack includes **Java, SpringBoot, Node.js, and React**.
 
-- 🔭 I'm currently working at **Duco Consultancy** as a Software Developer.
-- 🌱 I have experience with **STIBO-MDM**, **Restful APIs**, and **Data Structures**.
-- 🎓 **B.Tech in Computer Science** from Jaypee Institute of Information Technology (GPA: 7.6).
+- 🌱 I have experience with **STIBO-MDM**, **Restful APIs**,**MERN Stack** and **Data Structures**.
+- 🎓 **Integrated M.Tech in Computer Science** from Jaypee Institute of Information Technology.
 
 ---
 
@@ -52,18 +50,6 @@ Hi! I'm **Gautam Maheshwari**, a **Software Developer** based in **Gurugram**. I
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rock007k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rock007k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rock007k&theme=tokyonight&hide_border=true&background=0d1117" alt="github streak" />
-</div>
 
 ---
 
