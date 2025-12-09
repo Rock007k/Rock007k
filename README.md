@@ -1,5 +1,3 @@
-[![Gautam's Banner](coding.gif)](https://portfolio-kohl-theta-19.vercel.app/)
-
 <h1 align="center">Gautam Maheshwari ⚡︎</h1>
 
 <p align="center">
@@ -7,6 +5,7 @@
   <i>Turning complex problems into elegant solutions</i>
 </p>
 
+[![Gautam's Banner](coding.gif)](https://portfolio-kohl-theta-19.vercel.app/)
 
 ### 🛠️ Languages and Tools
 
