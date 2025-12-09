@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Gautam Maheshwari"/>](portfolio-kohl-theta-19.vercel.app/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Gautam(111| Maheshwari)|)" title="👋 Hi there!  I'm (Raymo(111| Maheshwari))"/>](https://portfolio-kohl-theta-19.vercel.app//)
 
 <h1 align="center"> Gautam Maheshwari ⚡︎</h1>
 
