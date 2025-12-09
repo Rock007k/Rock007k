@@ -1,31 +1,12 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Gautam(111| Maheshwari)|)" title="👋 Hi there!  I'm (Raymo(111| Maheshwari))"/>](https://portfolio-kohl-theta-19.vercel.app//)
+[![Gautam's Banner](coding.gif)](https://portfolio-kohl-theta-19.vercel.app/)
 
-<h1 align="center"> Gautam Maheshwari ⚡︎</h1>
+<h1 align="center">Gautam Maheshwari ⚡︎</h1>
 
 <p align="center">
   <b>Software Developer</b><br>
   <i>Turning complex problems into elegant solutions</i>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/gautam-maheshwari">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gautammaheshwari135790@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-Hi! I'm **Gautam Maheshwari**, a **Software Developer**. I specialize in building scalable web applications and enterprise data solutions. My stack includes **Java, SpringBoot, Node.js, and React**.
-
-- 🌱 I have experience with **STIBO-MDM**, **Restful APIs**,**MERN Stack** and **Data Structures**.
-- 🎓 **Integrated M.Tech in Computer Science** from Jaypee Institute of Information Technology.
-
----
 
 ### 🛠️ Languages and Tools
 
